@@ -1,0 +1,28 @@
+body{
+    background-image:url(../fashion.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    font-size: 20px;
+    text-decoration: none;
+    color:#d6d6c2 ;
+}
+ul{
+    text-align: end;
+}
+li{
+    display: inline-block;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    padding-left:700px ;
+    margin-top:90px ;
+    font-size: 60px;
+    font-style: italic;
+    color: #ff3333;
+}
+.button{
+
+}
